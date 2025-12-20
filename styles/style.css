@@ -1,0 +1,12 @@
+form {
+    border: 4px solid rgb(175, 74, 146);
+    padding: 20px;
+    width: 400px;
+    margin: auto;  
+}
+label {
+    font-weight: bold;
+}   
+.label-Brown {
+    color: brown;
+}   
